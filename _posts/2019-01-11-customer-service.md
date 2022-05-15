@@ -10,6 +10,7 @@ featured: true
 hidden: false
 #rating: 4.5
 eventdate: "12-13 June 2022"
+url: "www.vg.no"
 ---
 
 Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
