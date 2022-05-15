@@ -7,6 +7,7 @@ image: assets/images/12.jpg
 featured: true
 hidden: true
 eventdate: "12-13 August 2022"
+location: "California"
 ---
 
 Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
